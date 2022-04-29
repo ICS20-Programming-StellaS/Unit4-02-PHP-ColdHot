@@ -1,0 +1,33 @@
+/* Created by: Stella S
+* Created on: Apr 2022
+* This CSS file defines the style for index.html
+* Unit4-02-PHP-ColdHot
+*/
+
+body {
+	background-color: LightBlue;
+}
+
+h1 {
+	background-color: rgb(255, 148, 61);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+form {
+	background-color: rgb(248, 196, 84);
+  font-weight: bold;
+  color: #05161f;
+  margin: 5px;
+}
+
+label {
+  background-color: #ffb35c;
+	font-size: 20px;
+}
+
+iframe {
+  background-color: #a6f2ed;
+
+}
